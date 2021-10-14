@@ -6,8 +6,7 @@
 - 🤔 I’m currently learning [Go Lang](https://golang.org/)
 - 👯 I’m looking to work on open-source projects
 - 💬 I'm a huge DATA SCIENCE nerd
-- 📫 REACH ME VIA: <a href="https://www.linkedin.com/in/patnis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patink" height="25" width="25" /></a>&nbsp; 
-- <a href="mailto:patinisith@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="patink" height="25" width="25" /></a>
+- 📫 REACH ME VIA: <a href="https://www.linkedin.com/in/patnis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patink" height="25" width="25" /></a>&nbsp; <a href="mailto:patinisith@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="patink" height="25" width="25" /></a>
 - 😄 I'm super chill, helpful and patient
 
 # My GitHub Journey
