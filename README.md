@@ -9,7 +9,7 @@
 - 📫 REACH ME VIA: <a href="https://www.linkedin.com/in/patnis" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="patink" height="25" width="25" /></a>&nbsp; <a href="mailto:patinisith@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="patink" height="25" width="25" /></a>
 - 😄 I'm super chill, helpful and patient
 
-# My GitHub Journey
+# My GitHub Journey:
 
 <p align="center"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=patink&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="patink" />
