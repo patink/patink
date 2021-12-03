@@ -11,13 +11,14 @@
 
 # My GitHub Journey:
 
-<p align="center"> 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=patink&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="patink" />
-</p><br><br>
 <p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patink&layout=compact&theme=dark" />
 </p>
 <br>
+<p align="center"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=patink&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="patink" />
+</p><br><br>
+
 
 
 ## What I use
