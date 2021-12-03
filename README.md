@@ -22,18 +22,17 @@
 
 ## What I use
 
-* Jupyter Notebook
-
 * Python
+
+* Streamlit
 
 * Flask
 
-* Gradio
+* Go
 
-* Dash 
 
 ## Github Streak Stats(Credit: [This repo](https://github.com/DenverCoder1/github-readme-streak-stats))
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patink&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patink&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## So feel free to take a look around :grin: 
