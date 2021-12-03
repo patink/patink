@@ -10,7 +10,9 @@
 - 😄 I'm super chill, helpful and patient
 
 # My GitHub Journey:
+## Github Streak Stats(Credit: [This repo](https://github.com/DenverCoder1/github-readme-streak-stats))
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patink&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <p> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patink&layout=compact&theme=dark" />
 </p>
@@ -20,7 +22,7 @@
 </p><br><br>
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 ## What I use
 
 * Python
@@ -31,9 +33,5 @@
 
 * Go
 
-
-## Github Streak Stats(Credit: [This repo](https://github.com/DenverCoder1/github-readme-streak-stats))
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=patink&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## So feel free to take a look around :grin: 
